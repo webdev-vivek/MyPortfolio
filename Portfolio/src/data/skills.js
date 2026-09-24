@@ -1,0 +1,65 @@
+export const skillCategories = [
+  {
+    id: "01",
+    title: "Frontend",
+    description: "Interfaces that feel fast, responsive and intentional.",
+    skills: [
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Tailwind CSS",
+      "Responsive Design",
+    ],
+  },
+  {
+    id: "02",
+    title: "Backend",
+    description: "Reliable APIs and application architecture.",
+    skills: [
+      "Node.js",
+      "Express",
+      "REST APIs",
+      "Authentication",
+      "Server Architecture",
+    ],
+  },
+  {
+    id: "03",
+    title: "AI / ML",
+    description: "Intelligent systems built around real-world problems.",
+    skills: [
+      "Python",
+      "Machine Learning",
+      "Computer Vision",
+      "OpenCV",
+      "Data Processing",
+      "Model Integration",
+    ],
+  },
+  {
+    id: "04",
+    title: "Database",
+    description: "Structured data systems designed for reliable applications.",
+    skills: [
+      "MongoDB",
+      "SQL",
+      "Database Design",
+      "Data Modeling",
+      "CRUD",
+    ],
+  },
+  {
+    id: "05",
+    title: "Tools",
+    description: "The tools I use to build, test and ship software.",
+    skills: [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Postman",
+      "npm",
+      "Linux",
+    ],
+  },
+];
