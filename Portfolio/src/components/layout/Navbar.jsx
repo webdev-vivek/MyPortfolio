@@ -128,7 +128,7 @@ function Navbar() {
             rounded-full
             border
             border-white/[0.06]
-            bg-[#0A0A0A]/90
+            bg-[#15102A]/90
             px-5
             backdrop-blur-2xl
             shadow-[0_12px_40px_rgba(0,0,0,0.35)]
